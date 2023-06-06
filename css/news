@@ -1,0 +1,29 @@
+<div class="carousel-inner">
+                        <div id="img-news" class="carousel-item active">
+                            <a href="news_ocsen.php"><img src="image/oc-sen.png" class="d-block w-100" alt="..."></a>
+                            <div>
+                                <a href="news_ocsen.php"><p id="introduce-img"><b>Chuyện con ốc sên muốn biết tại sao nó chậm chạp</b></p></a>
+                                <div id="content_news">Chuyện Con Ốc Sên Muốn Biết Tại Sao Nó Chậm Chạp ra đời từ một gợi ý rất ngộ nghĩnh khi tác giả nhận được câu hỏi của ...
+                                    <a href="news_ocsen.php">(xem thêm)</a></div>
+                            </div>
+                        </div>
+                        <div id="img-news" class="carousel-item">
+                            <a href="news_lutrenhapenderwicks.php"><img src="image/lu-tre.png" class="d-block w-100" alt="..."></a>
+                            <div>
+                                <a href="news_lutrenhapenderwicks.php"><p id="introduce-img"><b>Lũ trẻ nhà Penderwicks</b></p></a>
+                                <div id="content_news">Quyển sách là câu chuyện xoay quanh những thành viên trong gia đình Penderwicks với người bố “gà trống nuôi con” luôn ...
+                                    <a href="news_lutrenhapenderwicks.php">(xem thêm)</a></div>
+                            </div>
+                        </div>
+                        <div id="img-news" class="carousel-item">
+                            <a href="news-cuoctinhgia.php"><img src="image/cuoc-tinh.png " class="d-block w-100" alt="..."></a>
+                        </div>
+                            <div>
+                                <a href="news-cuoctinhgia.php"><p id="introduce-img"><b>Em muốn có một cuộc tình già với anh</b></p></a>
+                                <div id="content_news">
+                                Em Muốn Có Một Cuộc Tình Già Với Anh là quyển sách thú vị và ý nghĩa được viết bởi tác giả Hoàng Anh Tú, là một trong ...
+                                    <a href="news-cuoctinhgia.php">(xem thêm)</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
